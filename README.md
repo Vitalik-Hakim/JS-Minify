@@ -1,4 +1,4 @@
-# JS-Minify
+# JS-Minifier
 Using the Toptal Minifier!
 
 Either paste code in a file.js in /Minifier 
