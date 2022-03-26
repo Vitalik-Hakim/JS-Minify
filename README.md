@@ -8,6 +8,6 @@ or
 Paste the code in the Gui for automatic minifying
 
 
-![image](https://user-images.githubusercontent.com/73163003/141685381-6684389d-292d-4007-b058-e00ad1926299.png)
+![image](https://user-images.githubusercontent.com/73163003/160250950-80304aa0-71ef-4223-b1f8-1b4fd6bc2890.png)
 
 
